@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Exercise.Games.BusinessLayer.MyGameOfLife" Collapsed="true" BaseTypeListCollapsed="true">
+    <Position X="3" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIAAAQAAAAAAAAAAAAAAAAAAAgAAAAABAAEA=</HashCode>
+      <FileName>GameOfLife\GameOfLife.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" Collapsed="true" />
+  </Class>
+  <Class Name="Exercise.Games.BusinessLayer.GameOfLifeOperations" Collapsed="true">
+    <Position X="0.5" Y="1.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAAQAABACAAAgAgQAAAAAAAAAAAIAAQAAAAAA=</HashCode>
+      <FileName>GameOfLife\GameOfLifeOperations.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Exercise.Games.BusinessLayer.Helper" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAIAAAAAAA=</HashCode>
+      <FileName>GameOfLife\Helper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise.Games.BusinessLayer.GameRepository" Collapsed="true">
+    <Position X="3" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>GameRepository.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Exercise.Games.BusinessLayer.Contracts.ValidationBase" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\ValidationBase.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Exercise.Games.BusinessLayer.IGame" Collapsed="true">
+    <Position X="3" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAgAAAAABAAAA=</HashCode>
+      <FileName>Contracts\IGame.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Interface Name="Exercise.Games.BusinessLayer.IGameRules" Collapsed="true">
+    <Position X="4.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Contracts\IGameOperations.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
